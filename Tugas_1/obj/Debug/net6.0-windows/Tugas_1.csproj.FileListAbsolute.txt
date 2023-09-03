@@ -1,0 +1,17 @@
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\bin\Debug\net6.0-windows\Tugas_1.exe
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\bin\Debug\net6.0-windows\Tugas_1.deps.json
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\bin\Debug\net6.0-windows\Tugas_1.runtimeconfig.json
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\bin\Debug\net6.0-windows\Tugas_1.dll
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\bin\Debug\net6.0-windows\Tugas_1.pdb
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.Form1.resources
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.csproj.GenerateResource.cache
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.AssemblyInfoInputs.cache
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.AssemblyInfo.cs
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.csproj.CoreCompileInputs.cache
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.dll
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\refint\Tugas_1.dll
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.pdb
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.genruntimeconfig.cache
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\ref\Tugas_1.dll
+C:\Users\dprih\OneDrive\Dokumen\ITS\ITS Semester 5\PBKK\Kuliah 1\Tugas 1\Tugas_1\Tugas_1\obj\Debug\net6.0-windows\Tugas_1.Properties.Resources.resources
